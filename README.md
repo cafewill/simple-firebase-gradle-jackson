@@ -1,6 +1,6 @@
 # simple-firebase-gradle-jackson
 
-This is a simple firebase util (gradle, jackson)
+This is a simple firebase util (java, gradle, jackson)
 
 ## Features
 
